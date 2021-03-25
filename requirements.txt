@@ -12,7 +12,7 @@ jsonpickle==0.9.5
 pep8==1.7.1
 PyJWT==1.6.1
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 qrcode==6.0
 related==0.5.3
 requests==2.18.4
