@@ -101,7 +101,7 @@
     "html-webpack-plugin": "^2.25.0",
     "http-proxy-middleware": "^0.17.4",
     "imports-loader": "^0.7.0",
-    "jsoneditor": "^5.13.3",
+    "jsoneditor": "^9.5.6",
     "node-sass": "^4.1.1",
     "opn": "^4.0.2",
     "ora": "^1.1.0",
