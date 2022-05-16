@@ -32,7 +32,7 @@
     "@websanova/vue-auth": "^2.8.2-beta",
     "animate.css": "3.5.2",
     "animejs": "^2.0.1",
-    "axios": "^0.15.3",
+    "axios": "^0.21.2",
     "bulma": "^0.3.2",
     "echarts": "^4.1.0",
     "font-awesome": "4.7.0",
