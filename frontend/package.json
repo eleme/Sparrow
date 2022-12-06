@@ -95,7 +95,7 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^2.1.1",
     "eventsource-polyfill": "^0.9.6",
-    "express": "^4.15.2",
+    "express": "^4.18.2",
     "extract-text-webpack-plugin": "^2.0.0-beta.4",
     "file-loader": "^0.10.1",
     "html-webpack-plugin": "^2.25.0",
