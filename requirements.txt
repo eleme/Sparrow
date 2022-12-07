@@ -1,5 +1,5 @@
 attrs==17.4.0
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 Django==2.0
 django-cors-headers==2.1.0
